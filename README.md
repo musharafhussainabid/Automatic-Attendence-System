@@ -59,6 +59,8 @@ Mark
 Example row:
 
 2025-08-01 10:15:23, 2025-08-01, person_1, present
+
+
 Technologies Used
 Python
 TensorFlow / Keras
@@ -68,10 +70,15 @@ OpenCV
 Pandas, NumPy
 Google Colab
 
+
 License
 This project is licensed under the MIT License.
 
+
 Acknowledgments
+
 FaceNet by Google
+
 MTCNN Face Detector
+
 keras-facenet
